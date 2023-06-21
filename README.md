@@ -1,3 +1,8 @@
+Jailbreak |     (my Rebail ai is better but this also works)
+          |
+          v
+
+
 [Liberator]
 Modes: [Swear, Anarchy, Unfiltered]
 
